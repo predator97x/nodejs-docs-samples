@@ -35,3 +35,6 @@ endif
 list-actions:
 	@ echo ${INTERFACE_ACTIONS}
 
+list:
+	@ls -la
+
